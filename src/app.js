@@ -31,7 +31,7 @@ app.listen(port, () => {
 // To get this Node.js API up and running:
 //
 //  First, install the dependencies listed in package.json:
-//   npm install
+//   npm install bla bla
 //
 // Then, start the API server with:
 //   node app.js
